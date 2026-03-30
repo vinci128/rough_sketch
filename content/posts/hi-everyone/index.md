@@ -5,4 +5,4 @@ categories:
   - "intro"
 ---
 
-Hello, i'm Vincenzo, i'm PhD working on theoretical physics, i wanted to try wordpress, maybe i'll manage to write something interesting one day.
+Hello, i'm Vincenzo, i'm a PhD working on theoretical physics. I wanted to try blogging — maybe i'll manage to write something interesting one day.

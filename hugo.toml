@@ -1,15 +1,29 @@
 baseURL = 'https://vinci128.github.io/'
 languageCode = 'en-us'
-locale = 'en-us'
 title = 'Rough Drafts of Reason'
 theme = "hugo-PaperMod"
 
-author = "vinci128"
-description = "Thoughts on culture, society, and life"
-
 [params]
-  homeInfoParams = ""
+  author = "Vincenzo"
+  description = "Thoughts on culture, society, and life"
+
+  [params.homeInfoParams]
+    Title = "Rough Drafts of Reason"
+    Content = "Thoughts on culture, society, and life"
+
   socialIcons = []
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/pages/informazioni/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/pages/contatti/"
+  weight = 20
 
 [markup]
   [markup.goldmark]
