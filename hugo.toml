@@ -1,4 +1,4 @@
-baseURL = 'https://vinci128.github.io/'
+baseURL = 'https://vinci128.github.io/rough_sketch/'
 languageCode = 'en-us'
 title = 'Rough Drafts of Reason'
 theme = "hugo-PaperMod"
