@@ -1,5 +1,5 @@
 ---
-title: "Writing a blog"
+title: "Writing a blog, again"
 date: 2026-03-31
 categories: 
   - "technical"
