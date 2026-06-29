@@ -3,19 +3,19 @@
 /* Custom properties */
 :root {
   --paper:        #F4F1EC;
-  --ink:          #16162A;
+  --ink:          #241B12;
   --cobalt:       #C97A0A;
-  --faint:        #CCC8BE;
-  --muted:        #8B877E;
+  --faint:        #CFC9BD;
+  --muted:        #8E887C;
 
   /* PaperMod overrides */
   --theme:        #F4F1EC;
   --entry:        #EDEAD5;
-  --primary:      #16162A;
-  --secondary:    #8B877E;
-  --tertiary:     #CCC8BE;
-  --content:      #1C1C2E;
-  --border:       #CCC8BE;
+  --primary:      #241B12;
+  --secondary:    #8E887C;
+  --tertiary:     #CFC9BD;
+  --content:      #2B2118;
+  --border:       #CFC9BD;
   --radius:       0px;
 
   /* Type stack */
@@ -266,7 +266,7 @@ body {
 .post-content code {
   font-family: var(--font-mono);
   font-size: 0.875em;
-  background: rgba(22, 22, 42, 0.04);
+  background: rgba(36, 27, 18, 0.05);
   padding: 2px 5px;
   border: 1px solid var(--faint);
 }
@@ -328,19 +328,19 @@ body {
 
 /* ===== DARK MODE ===== */
 [data-theme="dark"] {
-  --paper:     #13132A;
-  --ink:       #E4E0D5;
+  --paper:     #1B1613;
+  --ink:       #E8E1D4;
   --cobalt:    #E8A030;
-  --faint:     #22223A;
-  --muted:     #7573A0;
+  --faint:     #322820;
+  --muted:     #9B8C78;
 
-  --theme:     #13132A;
-  --entry:     #1A1A34;
-  --primary:   #E4E0D5;
-  --secondary: #7573A0;
-  --tertiary:  #22223A;
-  --content:   #CDCAC0;
-  --border:    #22223A;
+  --theme:     #1B1613;
+  --entry:     #241D17;
+  --primary:   #E8E1D4;
+  --secondary: #9B8C78;
+  --tertiary:  #322820;
+  --content:   #D6CFC1;
+  --border:    #322820;
 }
 
 [data-theme="dark"] .list {
