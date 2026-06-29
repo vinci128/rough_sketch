@@ -1,7 +1,12 @@
 ---
 title: "Benvenuti!"
-date: 2019-01-08
+date: 2026-06-29
 ---
+
+Welcome to my blog!
+
+I like the idea of having a blog where I can share my thoughts.
+
 
 Benvenuti in questo blog.
 

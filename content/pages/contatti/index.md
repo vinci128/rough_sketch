@@ -5,6 +5,6 @@ date: 2019-01-08
 
 Di qua ci stanno alcuni contatti.
 
-mail: [vinci128@gmail.com](mailto:vinci128@gmail.com)
+mail: [vinci128@protonmail.com](mailto:vinci128@protonmail.com)
 
-IG: @vinci128
+IG: @vinchainsaw_man
