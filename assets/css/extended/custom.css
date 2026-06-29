@@ -4,7 +4,7 @@
 :root {
   --paper:        #F4F1EC;
   --ink:          #16162A;
-  --cobalt:       #9A6820;
+  --cobalt:       #C97A0A;
   --faint:        #CCC8BE;
   --muted:        #8B877E;
 
@@ -245,7 +245,7 @@ body {
 .post-content a {
   color: var(--cobalt);
   text-decoration: underline;
-  text-decoration-color: rgba(154, 104, 32, 0.3);
+  text-decoration-color: rgba(201, 122, 10, 0.3);
   text-underline-offset: 3px;
   transition: text-decoration-color 0.15s ease;
 }
@@ -330,7 +330,7 @@ body {
 [data-theme="dark"] {
   --paper:     #13132A;
   --ink:       #E4E0D5;
-  --cobalt:    #C8922E;
+  --cobalt:    #E8A030;
   --faint:     #22223A;
   --muted:     #7573A0;
 
