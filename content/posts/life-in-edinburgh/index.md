@@ -3,6 +3,9 @@ title: "Life in Edinburgh"
 date: 2019-02-08
 categories: 
   - "diario"
+cover:
+  image: "cover.jpg"
+  alt: "Edinburgh cityscape"
 ---
 
 I'll write in English since i want to practice my writing skills a bit.

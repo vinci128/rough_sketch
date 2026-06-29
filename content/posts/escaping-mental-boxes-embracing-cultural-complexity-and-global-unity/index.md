@@ -9,6 +9,9 @@ tags:
   - "democracy"
   - "politics"
   - "spirituality"
+cover:
+  image: "cover.jpg"
+  alt: "Labyrinth symbolising thinking outside the box"
 ---
 
 _(Disclaimer, original post was written in 2021)_

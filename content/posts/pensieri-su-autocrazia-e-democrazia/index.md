@@ -8,6 +8,9 @@ tags:
   - "democrazia"
   - "machine-learning"
   - "suffraggio-universale"
+cover:
+  image: "cover.jpg"
+  alt: "Ancient Greek architecture symbolising democracy"
 ---
 
 ## Introduzione

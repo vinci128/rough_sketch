@@ -3,6 +3,9 @@ title: "Primo post"
 date: 2019-01-08
 categories: 
   - "intro"
+cover:
+  image: "cover.jpg"
+  alt: "Pen and paper"
 ---
 
 Salve,

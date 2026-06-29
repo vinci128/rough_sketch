@@ -6,6 +6,9 @@ categories:
 tags: 
   - "blog"
   - "writing"
+cover:
+  image: "cover.jpg"
+  alt: "Vintage typewriter"
 ---
 
 # Writing a blog, again

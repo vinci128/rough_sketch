@@ -8,6 +8,9 @@ tags:
   - "AI"
   - "LLM"
   - "burnout"
+cover:
+  image: "cover.png"
+  alt: "Colored diagram of an artificial neural network"
 ---
 
 I want to vent a bit. Ever since i am getting more and more ingulfed into daily AI usage, and moreover into reflecting on the meaning of its high capabilities, i connect it to the role of human intelligence and sense of belonging.

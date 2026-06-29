@@ -7,6 +7,9 @@ tags:
   - "cinema"
   - "filosofia"
   - "spiritualita"
+cover:
+  image: "cover.jpg"
+  alt: "A candle flame in the dark"
 ---
 
 Nel film [Nostalghia](https://www.youtube.com/watch?v=-gH1cprEg0w) di Andrei Tarkovsky, viene chiesto ad un poeta russo se é possibile comprendere qualcosa della cultura italiana leggendo le opere di Dante o Macchiavelli. La risposta fredda e dura del poeta é che potremmo comprenderci solo abolendo le frontiere tra gli stati. Il concetto del film ha risuonato in me, e questo articolo é l'interpretazione che ne é scaturita.
